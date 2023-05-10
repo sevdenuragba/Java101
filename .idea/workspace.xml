@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DaireDilimiAlanDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/VucutKitleIndeksiDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="VucutKitleIndeksiDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/ManavKasaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VucutKitleIndeksiDemo">
+  <component name="RunManager" selected="Application.ManavKasaDemo">
     <configuration name="DaireDilimiAlanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.DaireDilimiAlanDemo" />
       <module name="Java101" />
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotOrtalamaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.NotOrtalamaDemo" />
+    <configuration name="ManavKasaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.ManavKasaDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManavKasaDemo" />
         <item itemvalue="Application.VucutKitleIndeksiDemo" />
         <item itemvalue="Application.DaireDilimiAlanDemo" />
         <item itemvalue="Application.UcgenAlanDemo" />
         <item itemvalue="Application.KDVTutarıDemo" />
-        <item itemvalue="Application.NotOrtalamaDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683709866180</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="VucutKitleIndeksiDemo added">
+      <created>1683710562267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683710562267</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,6 +164,7 @@
     <MESSAGE value="KDVTutarıDemo added" />
     <MESSAGE value="UcgenAlanDemo added" />
     <MESSAGE value="DaireDilimiAlanDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="DaireDilimiAlanDemo added" />
+    <MESSAGE value="VucutKitleIndeksiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="VucutKitleIndeksiDemo added" />
   </component>
 </project>
