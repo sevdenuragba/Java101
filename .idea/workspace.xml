@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="SınıfGecmeDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/EtkinlikOnermeDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="EtkinlikOnermeDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/BuyuktenKucugeSiralama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,20 @@
     "onboarding.tips.debug.path": "C:/Users/s_agb/IdeaProjects/Java101/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EtkinlikOnermeDemo">
+  <component name="RunManager" selected="Application.BuyuktenKucugeSiralama">
+    <configuration name="BuyuktenKucugeSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.BuyuktenKucugeSiralama" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EtkinlikOnermeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.EtkinlikOnermeDemo" />
       <module name="Java101" />
@@ -76,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManavKasaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.ManavKasaDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SınıfGecmeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.SınıfGecmeDemo" />
       <module name="Java101" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuyuktenKucugeSiralama" />
         <item itemvalue="Application.EtkinlikOnermeDemo" />
         <item itemvalue="Application.SınıfGecmeDemo" />
         <item itemvalue="Application.KullanıcıGirisiDemo" />
         <item itemvalue="Application.HesapMakinesiDemo" />
-        <item itemvalue="Application.ManavKasaDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683799527648</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SınıfGecmeDemo added">
+      <created>1683800137615</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683800137615</updated>
+    </task>
+    <task id="LOCAL-00011" summary="EtkinlikOnermeDemo added">
+      <created>1683800179735</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683800179735</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +211,7 @@
     <MESSAGE value="HesapMakinesiDemo added" />
     <MESSAGE value="KullanıcıGirisiDemo added" />
     <MESSAGE value="SınıfGecmeDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="SınıfGecmeDemo added" />
+    <MESSAGE value="EtkinlikOnermeDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="EtkinlikOnermeDemo added" />
   </component>
 </project>
