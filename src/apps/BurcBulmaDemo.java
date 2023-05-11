@@ -19,7 +19,7 @@ public class BurcBulmaDemo {
 
 
         if (month == 1) {
-            if ((date > 0) && (date <= 32)) {
+            if ((date > 0) && (date <= 31)) {
                 if (date < 22) {
                     System.out.print("Oğlak");
                 } else {
