@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="VucutKitleIndeksiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/ManavKasaDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="ManavKasaDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/HesapMakinesiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/s_agb/IdeaProjects/Java101",
+    "onboarding.tips.debug.path": "C:/Users/s_agb/IdeaProjects/Java101/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.ManavKasaDemo">
+}]]></component>
+  <component name="RunManager" selected="Application.HesapMakinesiDemo">
     <configuration name="DaireDilimiAlanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.DaireDilimiAlanDemo" />
       <module name="Java101" />
@@ -50,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KDVTutarıDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.KDVTutarıDemo" />
+    <configuration name="HesapMakinesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.HesapMakinesiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HesapMakinesiDemo" />
         <item itemvalue="Application.ManavKasaDemo" />
         <item itemvalue="Application.VucutKitleIndeksiDemo" />
         <item itemvalue="Application.DaireDilimiAlanDemo" />
         <item itemvalue="Application.UcgenAlanDemo" />
-        <item itemvalue="Application.KDVTutarıDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683710562267</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ManavKasaDemo added">
+      <created>1683711430259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683711430259</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +173,7 @@
     <MESSAGE value="UcgenAlanDemo added" />
     <MESSAGE value="DaireDilimiAlanDemo added" />
     <MESSAGE value="VucutKitleIndeksiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="VucutKitleIndeksiDemo added" />
+    <MESSAGE value="ManavKasaDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ManavKasaDemo added" />
   </component>
 </project>
