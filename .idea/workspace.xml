@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="UcakBiletiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/CinZodyagiDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="CinZodyagiDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/ArtıkYılDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,20 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CinZodyagiDemo">
+  <component name="RunManager" selected="Application.ArtıkYılDemo">
+    <configuration name="ArtıkYılDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.ArtıkYılDemo" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BurcBulmaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.BurcBulmaDemo" />
       <module name="Java101" />
@@ -76,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtkinlikOnermeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.EtkinlikOnermeDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UcakBiletiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.UcakBiletiDemo" />
       <module name="Java101" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArtıkYılDemo" />
         <item itemvalue="Application.CinZodyagiDemo" />
         <item itemvalue="Application.UcakBiletiDemo" />
         <item itemvalue="Application.BurcBulmaDemo" />
         <item itemvalue="Application.BuyuktenKucugeSiralama" />
-        <item itemvalue="Application.EtkinlikOnermeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683882604039</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="CinZodyagiDemo added">
+      <created>1683883079696</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683883079696</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +250,7 @@
     <MESSAGE value="BuyuktenKucugeSiralama added" />
     <MESSAGE value="BurcBulmaDemo added" />
     <MESSAGE value="UcakBiletiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="UcakBiletiDemo added" />
+    <MESSAGE value="CinZodyagiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="CinZodyagiDemo added" />
   </component>
 </project>
