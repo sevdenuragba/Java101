@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="BuyuktenKucugeSiralama added">
-      <change afterPath="$PROJECT_DIR$/src/apps/BurcBulmaDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="BurcBulmaDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/UcakBiletiDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/s_agb/IdeaProjects/Java101",
-    "onboarding.tips.debug.path": "C:/Users/s_agb/IdeaProjects/Java101/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.BurcBulmaDemo">
+}</component>
+  <component name="RunManager" selected="Application.UcakBiletiDemo">
     <configuration name="BurcBulmaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.BurcBulmaDemo" />
       <module name="Java101" />
@@ -76,19 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KullanıcıGirisiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.KullanıcıGirisiDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SınıfGecmeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.SınıfGecmeDemo" />
       <module name="Java101" />
@@ -102,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UcakBiletiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.UcakBiletiDemo" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBiletiDemo" />
         <item itemvalue="Application.BurcBulmaDemo" />
         <item itemvalue="Application.BuyuktenKucugeSiralama" />
         <item itemvalue="Application.EtkinlikOnermeDemo" />
         <item itemvalue="Application.SınıfGecmeDemo" />
-        <item itemvalue="Application.KullanıcıGirisiDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683800559620</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="BurcBulmaDemo added">
+      <created>1683801198015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683801198015</updated>
+    </task>
+    <task id="LOCAL-00014" summary="BurcBulmaDemo added">
+      <created>1683801232170</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683801232170</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +235,7 @@
     <MESSAGE value="SınıfGecmeDemo added" />
     <MESSAGE value="EtkinlikOnermeDemo added" />
     <MESSAGE value="BuyuktenKucugeSiralama added" />
-    <option name="LAST_COMMIT_MESSAGE" value="BuyuktenKucugeSiralama added" />
+    <MESSAGE value="BurcBulmaDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="BurcBulmaDemo added" />
   </component>
 </project>
