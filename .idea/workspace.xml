@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="KuvvetBulmaDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/KombinasyonDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="KombinasyonDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/UsluSayiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/SinifGecmeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/apps/SinifGecmeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/SınıfGecmeDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.KombinasyonDemo">
-    <configuration name="ArtıkYılDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.ArtıkYılDemo" />
+  <component name="RunManager" selected="Application.KDVTutariDemo">
+    <configuration name="ArtikYilDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.ArtikYilDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -64,21 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CiftDördünKatı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.CiftDördünKatı" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CiftSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.CiftSayiBulma" />
+    <configuration name="KDVTutariDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.KDVTutariDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsluSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.UsluSayiDemo" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KDVTutariDemo" />
+        <item itemvalue="Application.ArtikYilDemo" />
+        <item itemvalue="Application.UsluSayiDemo" />
         <item itemvalue="Application.KombinasyonDemo" />
         <item itemvalue="Application.KuvvetBulmaDemo" />
-        <item itemvalue="Application.CiftDördünKatı" />
-        <item itemvalue="Application.CiftSayiBulma" />
-        <item itemvalue="Application.ArtıkYılDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684406592497</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="KombinasyonDemo added">
+      <created>1684409134483</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684409134483</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,6 +306,7 @@
     <MESSAGE value="CiftSayiBulma added" />
     <MESSAGE value="CiftDördünKatı added" />
     <MESSAGE value="KuvvetBulmaDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="KuvvetBulmaDemo added" />
+    <MESSAGE value="KombinasyonDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="KombinasyonDemo added" />
   </component>
 </project>

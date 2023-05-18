@@ -2,7 +2,7 @@ package apps;
 
 import java.util.Scanner;
 
-public class CiftDördünKatı {
+public class CiftDordunKati {
     public static void main(String[] args) {
 
         int n;
