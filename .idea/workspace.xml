@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="ElmasDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/ATMProjesiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="ATMProjesiDemo added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +47,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ATMProjesiDemo">
+  <component name="RunManager" selected="Application.EbobEkokDemo">
     <configuration name="ATMProjesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.ATMProjesiDemo" />
       <module name="Java101" />
@@ -66,6 +63,19 @@
     </configuration>
     <configuration name="BasamakToplamaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.BasamakToplamaDemo" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EbobEkokDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.EbobEkokDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -103,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KDVTutariDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.KDVTutariDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EbobEkokDemo" />
         <item itemvalue="Application.ATMProjesiDemo" />
         <item itemvalue="Application.ElmasDemo" />
         <item itemvalue="Application.HarmonikSayiDemo" />
         <item itemvalue="Application.BasamakToplamaDemo" />
-        <item itemvalue="Application.KDVTutariDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684412273238</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="ATMProjesiDemo added">
+      <created>1684412791142</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684412791142</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -359,6 +363,7 @@
     <MESSAGE value="BasamakToplamaDemo added" />
     <MESSAGE value="HarmonikSayiDemo added" />
     <MESSAGE value="ElmasDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ElmasDemo added" />
+    <MESSAGE value="ATMProjesiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ATMProjesiDemo added" />
   </component>
 </project>
