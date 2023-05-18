@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="ArtıkYılDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/CiftSayiBulma.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="CiftSayiBulma added">
+      <change afterPath="$PROJECT_DIR$/src/apps/CiftDördünKatı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +23,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -50,7 +50,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CiftSayiBulma">
+  <component name="RunManager" selected="Application.CiftDördünKatı">
     <configuration name="ArtıkYılDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.ArtıkYılDemo" />
       <module name="Java101" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BurcBulmaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.BurcBulmaDemo" />
+    <configuration name="CiftDördünKatı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.CiftDördünKatı" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CiftDördünKatı" />
         <item itemvalue="Application.CiftSayiBulma" />
         <item itemvalue="Application.ArtıkYılDemo" />
         <item itemvalue="Application.CinZodyagiDemo" />
         <item itemvalue="Application.UcakBiletiDemo" />
-        <item itemvalue="Application.BurcBulmaDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683883988272</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="CiftSayiBulma added">
+      <created>1683889145656</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683889145656</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +280,7 @@
     <MESSAGE value="UcakBiletiDemo added" />
     <MESSAGE value="CinZodyagiDemo added" />
     <MESSAGE value="ArtıkYılDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArtıkYılDemo added" />
+    <MESSAGE value="CiftSayiBulma added" />
+    <option name="LAST_COMMIT_MESSAGE" value="CiftSayiBulma added" />
   </component>
 </project>
