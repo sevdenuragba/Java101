@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="HarmonikSayiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/ElmasDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="ElmasDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/ATMProjesiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +50,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ElmasDemo">
-    <configuration name="ArtikYilDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.ArtikYilDemo" />
+  <component name="RunManager" selected="Application.ATMProjesiDemo">
+    <configuration name="ATMProjesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.ATMProjesiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATMProjesiDemo" />
         <item itemvalue="Application.ElmasDemo" />
         <item itemvalue="Application.HarmonikSayiDemo" />
         <item itemvalue="Application.BasamakToplamaDemo" />
         <item itemvalue="Application.KDVTutariDemo" />
-        <item itemvalue="Application.ArtikYilDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684411527872</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="ElmasDemo added">
+      <created>1684412273238</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684412273238</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -351,6 +358,7 @@
     <MESSAGE value="UsluSayiDemo added" />
     <MESSAGE value="BasamakToplamaDemo added" />
     <MESSAGE value="HarmonikSayiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HarmonikSayiDemo added" />
+    <MESSAGE value="ElmasDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ElmasDemo added" />
   </component>
 </project>
