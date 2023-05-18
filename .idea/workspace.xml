@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="UsluSayiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/BasamakToplamaDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="BasamakToplamaDemo added">
+      <change afterPath="$PROJECT_DIR$/src/apps/HarmonikSayiDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BasamakToplamaDemo">
+  <component name="RunManager" selected="Application.HarmonikSayiDemo">
     <configuration name="ArtikYilDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.ArtikYilDemo" />
       <module name="Java101" />
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KDVTutariDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.KDVTutariDemo" />
+    <configuration name="HarmonikSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.HarmonikSayiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KombinasyonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.KombinasyonDemo" />
+    <configuration name="KDVTutariDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.KDVTutariDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HarmonikSayiDemo" />
         <item itemvalue="Application.BasamakToplamaDemo" />
         <item itemvalue="Application.KDVTutariDemo" />
         <item itemvalue="Application.ArtikYilDemo" />
         <item itemvalue="Application.UsluSayiDemo" />
-        <item itemvalue="Application.KombinasyonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684409936230</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="UsluSayiDemo added">
+      <created>1684410105975</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684410105975</updated>
+    </task>
+    <task id="LOCAL-00026" summary="BasamakToplamaDemo added">
+      <created>1684410179093</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684410179093</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -327,6 +341,7 @@
     <MESSAGE value="KombinasyonDemo added" />
     <MESSAGE value="Renaming" />
     <MESSAGE value="UsluSayiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="UsluSayiDemo added" />
+    <MESSAGE value="BasamakToplamaDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="BasamakToplamaDemo added" />
   </component>
 </project>
