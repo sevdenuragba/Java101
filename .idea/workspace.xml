@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="KombinasyonDemo added">
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="Renaming">
       <change afterPath="$PROJECT_DIR$/src/apps/UsluSayiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/SinifGecmeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/apps/SinifGecmeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/ArtıkYılDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/CiftDördünKatı.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/apps/CiftDordunKati.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/KDVTutarıDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apps/KullanıcıGirisiDemo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/apps/SınıfGecmeDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684409134483</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Renaming">
+      <created>1684409727849</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684409727849</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,6 +317,7 @@
     <MESSAGE value="CiftDördünKatı added" />
     <MESSAGE value="KuvvetBulmaDemo added" />
     <MESSAGE value="KombinasyonDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="KombinasyonDemo added" />
+    <MESSAGE value="Renaming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renaming" />
   </component>
 </project>
