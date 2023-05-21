@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="FibonacciDemo added">
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="End of the introduction part">
+      <change afterPath="$PROJECT_DIR$/src/methods/PalindromSayiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/ATMProjesiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/ATMProjesiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/ArtikYilDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/ArtikYilDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/AsalSayiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/AsalSayiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/BasamakToplamaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/BasamakToplamaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/BurcBulmaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/BurcBulmaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/BuyuktenKucugeSiralama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/BuyuktenKucugeSiralama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/CiftDordunKati.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/CiftDordunKati.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/CiftSayiBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/CiftSayiBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/CinZodyagiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/CinZodyagiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/DaireDilimiAlanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/DaireDilimiAlanDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/EbobEkokDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/EbobEkokDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/ElmasDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/ElmasDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/EtkinlikOnermeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/EtkinlikOnermeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/FibonacciDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/FibonacciDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/HarmonikSayiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/HarmonikSayiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/HesapMakinesiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/HesapMakinesiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/KDVTutariDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/KDVTutariDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/KombinasyonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/KombinasyonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/KullaniciGirisiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/KullaniciGirisiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/KuvvetBulmaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/KuvvetBulmaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/ManavKasaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/ManavKasaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/MinMaxBulmaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/MinMaxBulmaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/MukemmelSayiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/MukemmelSayiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/NotOrtalamaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/NotOrtalamaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/SinifGecmeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/SinifGecmeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/TersUcgenDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/TersUcgenDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/UcakBiletiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/UcakBiletiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/UcgenAlanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/UcgenAlanDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/UsluSayiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/UsluSayiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apps/VucutKitleIndeksiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/VucutKitleIndeksiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/asfh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/asfh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +50,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.asfh">
+  <component name="RunManager" selected="Application.PalindromSayiDemo">
     <configuration name="AsalSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introduction.AsalSayiDemo" />
       <module name="Java101" />
@@ -107,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TersUcgenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.TersUcgenDemo" />
+    <configuration name="PalindromSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.PalindromSayiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduction.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromSayiDemo" />
         <item itemvalue="Application.asfh" />
         <item itemvalue="Application.as" />
         <item itemvalue="Application.FibonacciDemo" />
         <item itemvalue="Application.AsalSayiDemo" />
-        <item itemvalue="Application.TersUcgenDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -417,11 +387,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684654768812</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="End of the introduction part">
+      <created>1684661751156</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1684661751156</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HesapMakinesiDemo added" />
     <MESSAGE value="KullanıcıGirisiDemo added" />
     <MESSAGE value="SınıfGecmeDemo added" />
     <MESSAGE value="EtkinlikOnermeDemo added" />
@@ -446,6 +422,7 @@
     <MESSAGE value="TersUcgenDemo added" />
     <MESSAGE value="AsalSayiDemo added" />
     <MESSAGE value="FibonacciDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="FibonacciDemo added" />
+    <MESSAGE value="End of the introduction part" />
+    <option name="LAST_COMMIT_MESSAGE" value="End of the introduction part" />
   </component>
 </project>
