@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="PalindromSayiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/methods/RecursiveFibonacciDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="RecursiveFibonacciDemo added">
+      <change afterPath="$PROJECT_DIR$/src/methods/GelismisHesapMakinesiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +50,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursiveFibonacciDemo">
-    <configuration name="FibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.FibonacciDemo" />
+  <component name="RunManager" selected="Application.GelismisHesapMakinesiDemo">
+    <configuration name="GelismisHesapMakinesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.GelismisHesapMakinesiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduction.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GelismisHesapMakinesiDemo" />
         <item itemvalue="Application.RecursiveFibonacciDemo" />
         <item itemvalue="Application.PalindromSayiDemo" />
         <item itemvalue="Application.asfh" />
         <item itemvalue="Application.as" />
-        <item itemvalue="Application.FibonacciDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -401,11 +401,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684662932540</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="RecursiveFibonacciDemo added">
+      <created>1684664150319</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1684664150319</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SınıfGecmeDemo added" />
     <MESSAGE value="EtkinlikOnermeDemo added" />
     <MESSAGE value="BuyuktenKucugeSiralama added" />
     <MESSAGE value="BurcBulmaDemo added" />
@@ -430,6 +436,7 @@
     <MESSAGE value="FibonacciDemo added" />
     <MESSAGE value="End of the introduction part" />
     <MESSAGE value="PalindromSayiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="PalindromSayiDemo added" />
+    <MESSAGE value="RecursiveFibonacciDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="RecursiveFibonacciDemo added" />
   </component>
 </project>
