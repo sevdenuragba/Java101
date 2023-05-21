@@ -1,4 +1,4 @@
-package apps;
+package introduction;
 
 public class AsalSayiDemo {
     public static void main(String[] args) {

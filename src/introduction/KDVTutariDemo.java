@@ -1,4 +1,4 @@
-package apps;
+package introduction;
 import java.util.Scanner;
 
 public class KDVTutariDemo {
