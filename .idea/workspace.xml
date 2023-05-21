@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="RecursiveUsluSayiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/methods/RecursiveAsalSayiDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="RecursiveAsalSayiDemo added">
+      <change afterPath="$PROJECT_DIR$/src/methods/DesenMetotDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +50,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursiveAsalSayiDemo">
-    <configuration name="GelismisHesapMakinesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.GelismisHesapMakinesiDemo" />
+  <component name="RunManager" selected="Application.DesenMetotDemo">
+    <configuration name="DesenMetotDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.DesenMetotDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.PalindromSayiDemo" />
+    <configuration name="GelismisHesapMakinesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.GelismisHesapMakinesiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -90,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.RecursiveFibonacciDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RecursiveUsluSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.RecursiveUsluSayiDemo" />
       <module name="Java101" />
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aasd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.aasd" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesenMetotDemo" />
+        <item itemvalue="Application.aasd" />
         <item itemvalue="Application.RecursiveAsalSayiDemo" />
         <item itemvalue="Application.RecursiveUsluSayiDemo" />
         <item itemvalue="Application.GelismisHesapMakinesiDemo" />
-        <item itemvalue="Application.RecursiveFibonacciDemo" />
-        <item itemvalue="Application.PalindromSayiDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -422,11 +422,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684665233769</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="RecursiveAsalSayiDemo added">
+      <created>1684665844496</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1684665844496</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BurcBulmaDemo added" />
     <MESSAGE value="UcakBiletiDemo added" />
     <MESSAGE value="CinZodyagiDemo added" />
     <MESSAGE value="ArtıkYılDemo added" />
@@ -451,6 +457,7 @@
     <MESSAGE value="RecursiveFibonacciDemo added" />
     <MESSAGE value="GelismisHesapMakinesiDemo added" />
     <MESSAGE value="RecursiveUsluSayiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="RecursiveUsluSayiDemo added" />
+    <MESSAGE value="RecursiveAsalSayiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="RecursiveAsalSayiDemo added" />
   </component>
 </project>
