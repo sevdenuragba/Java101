@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="TersUcgenDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/AsalSayiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="AsalSayiDemo added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +47,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AsalSayiDemo">
+  <component name="RunManager" selected="Application.FibonacciDemo">
     <configuration name="AsalSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.AsalSayiDemo" />
       <module name="Java101" />
@@ -64,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EbobEkokDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.EbobEkokDemo" />
+    <configuration name="FibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.FibonacciDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciDemo" />
         <item itemvalue="Application.AsalSayiDemo" />
         <item itemvalue="Application.TersUcgenDemo" />
         <item itemvalue="Application.MukemmelSayiDemo" />
         <item itemvalue="Application.MinMaxBulmaDemo" />
-        <item itemvalue="Application.EbobEkokDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -366,11 +363,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684653751432</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="AsalSayiDemo added">
+      <created>1684654195735</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684654195735</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="VucutKitleIndeksiDemo added" />
     <MESSAGE value="ManavKasaDemo added" />
     <MESSAGE value="HesapMakinesiDemo added" />
     <MESSAGE value="KullanıcıGirisiDemo added" />
@@ -395,6 +398,7 @@
     <MESSAGE value="MinMaxBulmaDemo added" />
     <MESSAGE value="MukemmelSayiDemo added" />
     <MESSAGE value="TersUcgenDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="TersUcgenDemo added" />
+    <MESSAGE value="AsalSayiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AsalSayiDemo added" />
   </component>
 </project>
