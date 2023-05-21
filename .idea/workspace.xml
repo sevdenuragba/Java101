@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="End of the introduction part">
-      <change afterPath="$PROJECT_DIR$/src/methods/PalindromSayiDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="PalindromSayiDemo added">
+      <change afterPath="$PROJECT_DIR$/src/methods/RecursiveFibonacciDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalindromSayiDemo">
-    <configuration name="AsalSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction.AsalSayiDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecursiveFibonacciDemo">
     <configuration name="FibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introduction.FibonacciDemo" />
       <module name="Java101" />
@@ -79,6 +66,19 @@
     </configuration>
     <configuration name="PalindromSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.PalindromSayiDemo" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveFibonacciDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.RecursiveFibonacciDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveFibonacciDemo" />
         <item itemvalue="Application.PalindromSayiDemo" />
         <item itemvalue="Application.asfh" />
         <item itemvalue="Application.as" />
         <item itemvalue="Application.FibonacciDemo" />
-        <item itemvalue="Application.AsalSayiDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -394,11 +394,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684661751156</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="PalindromSayiDemo added">
+      <created>1684662932540</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1684662932540</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="KullanıcıGirisiDemo added" />
     <MESSAGE value="SınıfGecmeDemo added" />
     <MESSAGE value="EtkinlikOnermeDemo added" />
     <MESSAGE value="BuyuktenKucugeSiralama added" />
@@ -423,6 +429,7 @@
     <MESSAGE value="AsalSayiDemo added" />
     <MESSAGE value="FibonacciDemo added" />
     <MESSAGE value="End of the introduction part" />
-    <option name="LAST_COMMIT_MESSAGE" value="End of the introduction part" />
+    <MESSAGE value="PalindromSayiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="PalindromSayiDemo added" />
   </component>
 </project>
