@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="MinMaxBulmaDemo added">
-      <change afterPath="$PROJECT_DIR$/src/apps/MukemmelSayiDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="MukemmelSayiDemo added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MukemmelSayiDemo">
+  <component name="RunManager" selected="Application.TersUcgenDemo">
     <configuration name="ATMProjesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.ATMProjesiDemo" />
       <module name="Java101" />
@@ -65,19 +63,6 @@
     </configuration>
     <configuration name="EbobEkokDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apps.EbobEkokDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="apps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElmasDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.ElmasDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TersUcgenDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="apps.TersUcgenDemo" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TersUcgenDemo" />
         <item itemvalue="Application.MukemmelSayiDemo" />
         <item itemvalue="Application.MinMaxBulmaDemo" />
         <item itemvalue="Application.EbobEkokDemo" />
         <item itemvalue="Application.ATMProjesiDemo" />
-        <item itemvalue="Application.ElmasDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -351,11 +349,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684416223383</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="MukemmelSayiDemo added">
+      <created>1684416581429</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684416581429</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UcgenAlanDemo added" />
     <MESSAGE value="DaireDilimiAlanDemo added" />
     <MESSAGE value="VucutKitleIndeksiDemo added" />
     <MESSAGE value="ManavKasaDemo added" />
@@ -380,6 +384,7 @@
     <MESSAGE value="ATMProjesiDemo added" />
     <MESSAGE value="EbobEkokDemo added" />
     <MESSAGE value="MinMaxBulmaDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinMaxBulmaDemo added" />
+    <MESSAGE value="MukemmelSayiDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MukemmelSayiDemo added" />
   </component>
 </project>
