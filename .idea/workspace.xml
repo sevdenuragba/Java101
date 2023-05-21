@@ -50,7 +50,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GelismisHesapMakinesiDemo">
+  <component name="RunManager" selected="Application.RecursiveUsluSayiDemo">
     <configuration name="GelismisHesapMakinesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.GelismisHesapMakinesiDemo" />
       <module name="Java101" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="as" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="apps.as" />
+    <configuration name="RecursiveUsluSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.RecursiveUsluSayiDemo" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduction.*" />
+          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveUsluSayiDemo" />
         <item itemvalue="Application.GelismisHesapMakinesiDemo" />
         <item itemvalue="Application.RecursiveFibonacciDemo" />
         <item itemvalue="Application.PalindromSayiDemo" />
         <item itemvalue="Application.asfh" />
-        <item itemvalue="Application.as" />
       </list>
     </recent_temporary>
   </component>
