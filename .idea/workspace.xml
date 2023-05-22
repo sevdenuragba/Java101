@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="RecursiveAsalSayiDemo added">
-      <change afterPath="$PROJECT_DIR$/src/methods/DesenMetotDemo.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DesenMetotDemo added">
+      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DesenMetotDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DesenMetotDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.DesenMetotDemo" />
       <module name="Java101" />
@@ -64,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GelismisHesapMakinesiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.GelismisHesapMakinesiDemo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.OgrenciBilgiSistemi.Main" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="classes.OgrenciBilgiSistemi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveUsluSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.RecursiveUsluSayiDemo" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methods.Test" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.DesenMetotDemo" />
         <item itemvalue="Application.aasd" />
         <item itemvalue="Application.RecursiveAsalSayiDemo" />
-        <item itemvalue="Application.RecursiveUsluSayiDemo" />
-        <item itemvalue="Application.GelismisHesapMakinesiDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -429,11 +432,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684665844496</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="DesenMetotDemo added">
+      <created>1684670910950</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1684670910950</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UcakBiletiDemo added" />
     <MESSAGE value="CinZodyagiDemo added" />
     <MESSAGE value="ArtıkYılDemo added" />
     <MESSAGE value="CiftSayiBulma added" />
@@ -458,6 +467,7 @@
     <MESSAGE value="GelismisHesapMakinesiDemo added" />
     <MESSAGE value="RecursiveUsluSayiDemo added" />
     <MESSAGE value="RecursiveAsalSayiDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="RecursiveAsalSayiDemo added" />
+    <MESSAGE value="DesenMetotDemo added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DesenMetotDemo added" />
   </component>
 </project>
