@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="OgrenciBilgiSistemi added">
-      <change afterPath="$PROJECT_DIR$/src/classes/BoksOyunu/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/BoksOyunu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/BoksOyunu/Ring.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="BoksOyunu added">
+      <change afterPath="$PROJECT_DIR$/src/classes/MaasHesaplayici/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/MaasHesaplayici/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.classes.BoksOyunu.Main">
+  <component name="RunManager" selected="Application.classes.MaasHesaplayici.Main">
     <configuration name="DesenMetotDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.DesenMetotDemo" />
       <module name="Java101" />
@@ -92,19 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aasd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.aasd" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="classes.BoksOyunu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classes.BoksOyunu.Main" />
       <module name="Java101" />
@@ -118,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="classes.MaasHesaplayici.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.MaasHesaplayici.Main" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes.MaasHesaplayici.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.classes.MaasHesaplayici.Main" />
         <item itemvalue="Application.classes.BoksOyunu.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DesenMetotDemo" />
-        <item itemvalue="Application.aasd" />
       </list>
     </recent_temporary>
   </component>
@@ -445,11 +444,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684742649200</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="BoksOyunu added">
+      <created>1684746343500</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1684746343500</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArtıkYılDemo added" />
     <MESSAGE value="CiftSayiBulma added" />
     <MESSAGE value="CiftDördünKatı added" />
     <MESSAGE value="KuvvetBulmaDemo added" />
@@ -474,6 +479,7 @@
     <MESSAGE value="RecursiveAsalSayiDemo added" />
     <MESSAGE value="DesenMetotDemo added" />
     <MESSAGE value="OgrenciBilgiSistemi added" />
-    <option name="LAST_COMMIT_MESSAGE" value="OgrenciBilgiSistemi added" />
+    <MESSAGE value="BoksOyunu added" />
+    <option name="LAST_COMMIT_MESSAGE" value="BoksOyunu added" />
   </component>
 </project>
