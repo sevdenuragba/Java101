@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="BoksOyunu added">
-      <change afterPath="$PROJECT_DIR$/src/classes/MaasHesaplayici/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/MaasHesaplayici/Main.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="MaasHesaplayici added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +49,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.classes.MaasHesaplayici.Main">
-    <configuration name="DesenMetotDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.DesenMetotDemo" />
+  <component name="RunManager" selected="Application.HarmonikOrtalama">
+    <configuration name="HarmonikOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.HarmonikOrtalama" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HarmonikOrtalama" />
         <item itemvalue="Application.classes.MaasHesaplayici.Main" />
         <item itemvalue="Application.classes.BoksOyunu.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.DesenMetotDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -451,11 +449,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684746343500</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="MaasHesaplayici added">
+      <created>1684751240822</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1684751240822</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CiftSayiBulma added" />
     <MESSAGE value="CiftDördünKatı added" />
     <MESSAGE value="KuvvetBulmaDemo added" />
     <MESSAGE value="KombinasyonDemo added" />
@@ -480,6 +484,7 @@
     <MESSAGE value="DesenMetotDemo added" />
     <MESSAGE value="OgrenciBilgiSistemi added" />
     <MESSAGE value="BoksOyunu added" />
-    <option name="LAST_COMMIT_MESSAGE" value="BoksOyunu added" />
+    <MESSAGE value="MaasHesaplayici added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaasHesaplayici added" />
   </component>
 </project>
