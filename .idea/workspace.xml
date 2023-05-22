@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DesenMetotDemo added">
-      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/OgrenciBilgiSistemi/Teacher.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="OgrenciBilgiSistemi added">
+      <change afterPath="$PROJECT_DIR$/src/classes/BoksOyunu/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/BoksOyunu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/BoksOyunu/Ring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.classes.BoksOyunu.Main">
     <configuration name="DesenMetotDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methods.DesenMetotDemo" />
       <module name="Java101" />
@@ -73,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="classes.OgrenciBilgiSistemi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveAsalSayiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.RecursiveAsalSayiDemo" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="classes.BoksOyunu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.BoksOyunu.Main" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes.BoksOyunu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.classes.BoksOyunu.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DesenMetotDemo" />
         <item itemvalue="Application.aasd" />
-        <item itemvalue="Application.RecursiveAsalSayiDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -439,11 +438,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684670910950</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="OgrenciBilgiSistemi added">
+      <created>1684742649200</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1684742649200</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CinZodyagiDemo added" />
     <MESSAGE value="ArtıkYılDemo added" />
     <MESSAGE value="CiftSayiBulma added" />
     <MESSAGE value="CiftDördünKatı added" />
@@ -468,6 +473,7 @@
     <MESSAGE value="RecursiveUsluSayiDemo added" />
     <MESSAGE value="RecursiveAsalSayiDemo added" />
     <MESSAGE value="DesenMetotDemo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesenMetotDemo added" />
+    <MESSAGE value="OgrenciBilgiSistemi added" />
+    <option name="LAST_COMMIT_MESSAGE" value="OgrenciBilgiSistemi added" />
   </component>
 </project>
