@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DiziSiralama added">
-      <change afterPath="$PROJECT_DIR$/src/arrays/DiziFrekans.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DiziFrekans added">
+      <change afterPath="$PROJECT_DIR$/src/arrays/MatrisTranspozu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DiziFrekans">
+  <component name="RunManager" selected="Application.MatrisTranspozu">
     <configuration name="BHarfiYazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.BHarfiYazdirma" />
       <module name="Java101" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnYakinMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.EnYakinMinMax" />
+    <configuration name="MatrisTranspozu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MatrisTranspozu" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrisTranspozu" />
         <item itemvalue="Application.DiziFrekans" />
         <item itemvalue="Application.DiziSiralama" />
         <item itemvalue="Application.TekrarEdenSayi" />
         <item itemvalue="Application.BHarfiYazdirma" />
-        <item itemvalue="Application.EnYakinMinMax" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683633504685</updated>
-    </task>
-    <task id="LOCAL-00003" summary="UcgenAlanDemo added">
-      <created>1683709108908</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683709108908</updated>
     </task>
     <task id="LOCAL-00004" summary="DaireDilimiAlanDemo added">
       <created>1683709866180</created>
@@ -478,11 +471,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684831181353</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="DiziFrekans added">
+      <created>1684835557212</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1684835557212</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BasamakToplamaDemo added" />
     <MESSAGE value="HarmonikSayiDemo added" />
     <MESSAGE value="ElmasDemo added" />
     <MESSAGE value="ATMProjesiDemo added" />
@@ -507,6 +506,7 @@
     <MESSAGE value="BHarfiYazdirma added" />
     <MESSAGE value="TekrarEdenSayi added" />
     <MESSAGE value="DiziSiralama added" />
-    <option name="LAST_COMMIT_MESSAGE" value="DiziSiralama added" />
+    <MESSAGE value="DiziFrekans added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DiziFrekans added" />
   </component>
 </project>
