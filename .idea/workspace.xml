@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="TekrarEdenSayi added">
-      <change afterPath="$PROJECT_DIR$/src/arrays/DiziSiralama.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DiziSiralama added">
+      <change afterPath="$PROJECT_DIR$/src/arrays/DiziFrekans.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +50,22 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DiziSiralama">
+  <component name="RunManager" selected="Application.DiziFrekans">
     <configuration name="BHarfiYazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.BHarfiYazdirma" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiziFrekans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.DiziFrekans" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
@@ -90,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonikOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.HarmonikOrtalama" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TekrarEdenSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.TekrarEdenSayi" />
       <module name="Java101" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiziFrekans" />
         <item itemvalue="Application.DiziSiralama" />
         <item itemvalue="Application.TekrarEdenSayi" />
         <item itemvalue="Application.BHarfiYazdirma" />
         <item itemvalue="Application.EnYakinMinMax" />
-        <item itemvalue="Application.HarmonikOrtalama" />
       </list>
     </recent_temporary>
   </component>
@@ -134,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683633504685</updated>
-    </task>
-    <task id="LOCAL-00002" summary="KDVTutarıDemo added">
-      <created>1683637083834</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1683637083834</updated>
     </task>
     <task id="LOCAL-00003" summary="UcgenAlanDemo added">
       <created>1683709108908</created>
@@ -478,11 +471,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684828880191</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="DiziSiralama added">
+      <created>1684831181353</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1684831181353</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UsluSayiDemo added" />
     <MESSAGE value="BasamakToplamaDemo added" />
     <MESSAGE value="HarmonikSayiDemo added" />
     <MESSAGE value="ElmasDemo added" />
@@ -507,6 +506,7 @@
     <MESSAGE value="EnYakinMinMax added" />
     <MESSAGE value="BHarfiYazdirma added" />
     <MESSAGE value="TekrarEdenSayi added" />
-    <option name="LAST_COMMIT_MESSAGE" value="TekrarEdenSayi added" />
+    <MESSAGE value="DiziSiralama added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DiziSiralama added" />
   </component>
 </project>
