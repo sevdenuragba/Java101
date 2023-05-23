@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="MaasHesaplayici added">
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="EnYakinMinMax added">
+      <change afterPath="$PROJECT_DIR$/src/arrays/EnYakinMinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,20 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HarmonikOrtalama">
+  <component name="RunManager" selected="Application.EnYakinMinMax">
+    <configuration name="EnYakinMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.EnYakinMinMax" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HarmonikOrtalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.HarmonikOrtalama" />
       <module name="Java101" />
@@ -69,19 +83,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="classes.OgrenciBilgiSistemi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methods.Test" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnYakinMinMax" />
         <item itemvalue="Application.HarmonikOrtalama" />
         <item itemvalue="Application.classes.MaasHesaplayici.Main" />
         <item itemvalue="Application.classes.BoksOyunu.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -456,12 +457,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684751240822</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="HarmonikOrtalama added">
+      <created>1684788529155</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1684788529155</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CiftDördünKatı added" />
-    <MESSAGE value="KuvvetBulmaDemo added" />
     <MESSAGE value="KombinasyonDemo added" />
     <MESSAGE value="Renaming" />
     <MESSAGE value="UsluSayiDemo added" />
@@ -485,6 +491,8 @@
     <MESSAGE value="OgrenciBilgiSistemi added" />
     <MESSAGE value="BoksOyunu added" />
     <MESSAGE value="MaasHesaplayici added" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaasHesaplayici added" />
+    <MESSAGE value="HarmonikOrtalama added" />
+    <MESSAGE value="EnYakinMinMax added" />
+    <option name="LAST_COMMIT_MESSAGE" value="EnYakinMinMax added" />
   </component>
 </project>
