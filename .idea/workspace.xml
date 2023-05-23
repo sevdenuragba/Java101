@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="DiziFrekans added">
-      <change afterPath="$PROJECT_DIR$/src/arrays/MatrisTranspozu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="MatrisTranspozu added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683633504685</updated>
-    </task>
-    <task id="LOCAL-00004" summary="DaireDilimiAlanDemo added">
-      <created>1683709866180</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683709866180</updated>
     </task>
     <task id="LOCAL-00005" summary="VucutKitleIndeksiDemo added">
       <created>1683710562267</created>
@@ -478,11 +468,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684835557212</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="MatrisTranspozu added">
+      <created>1684837267740</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1684837267740</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HarmonikSayiDemo added" />
     <MESSAGE value="ElmasDemo added" />
     <MESSAGE value="ATMProjesiDemo added" />
     <MESSAGE value="EbobEkokDemo added" />
@@ -507,6 +503,7 @@
     <MESSAGE value="TekrarEdenSayi added" />
     <MESSAGE value="DiziSiralama added" />
     <MESSAGE value="DiziFrekans added" />
-    <option name="LAST_COMMIT_MESSAGE" value="DiziFrekans added" />
+    <MESSAGE value="MatrisTranspozu added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MatrisTranspozu added" />
   </component>
 </project>
