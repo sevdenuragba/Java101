@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="EnYakinMinMax added">
-      <change afterPath="$PROJECT_DIR$/src/arrays/BHarfiYazdirma.java" afterDir="false" />
+    <list default="true" id="683a140d-937c-45fd-9bf0-b8763b4e3ea5" name="Changes" comment="BHarfiYazdirma added">
+      <change afterPath="$PROJECT_DIR$/src/arrays/TekrarEdenSayi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/s_agb/IdeaProjects/Java101/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BHarfiYazdirma">
+  <component name="RunManager" selected="Application.TekrarEdenSayi">
     <configuration name="BHarfiYazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.BHarfiYazdirma" />
       <module name="Java101" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classes.BoksOyunu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.BoksOyunu.Main" />
+    <configuration name="TekrarEdenSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.TekrarEdenSayi" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classes.BoksOyunu.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TekrarEdenSayi" />
         <item itemvalue="Application.BHarfiYazdirma" />
         <item itemvalue="Application.EnYakinMinMax" />
         <item itemvalue="Application.HarmonikOrtalama" />
         <item itemvalue="Application.classes.MaasHesaplayici.Main" />
-        <item itemvalue="Application.classes.BoksOyunu.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -471,11 +471,17 @@
       <option name="project" value="LOCAL" />
       <updated>1684827514414</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="BHarfiYazdirma added">
+      <created>1684828072235</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1684828072235</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="KombinasyonDemo added" />
     <MESSAGE value="Renaming" />
     <MESSAGE value="UsluSayiDemo added" />
     <MESSAGE value="BasamakToplamaDemo added" />
@@ -500,6 +506,7 @@
     <MESSAGE value="MaasHesaplayici added" />
     <MESSAGE value="HarmonikOrtalama added" />
     <MESSAGE value="EnYakinMinMax added" />
-    <option name="LAST_COMMIT_MESSAGE" value="EnYakinMinMax added" />
+    <MESSAGE value="BHarfiYazdirma added" />
+    <option name="LAST_COMMIT_MESSAGE" value="BHarfiYazdirma added" />
   </component>
 </project>
